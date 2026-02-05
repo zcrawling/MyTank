@@ -11,7 +11,7 @@
     Joystic 등     
      
 ####로드맵####  
-Zephyr 개발환경 구축(02.03) - RPC Server,Client(Zephyr-linux) 작성 - DDS 구현 - Topic 명세 구현 - Node 명세 구현 - 통합 
+Zephyr 개발환경 구축(02.03) - RPC Server,Client(Zephyr-linux) 작성 - DDS 구현 - Topic 명세 구현 - Node 명세 구현 - 통합      
 ####개발중####    
     
 (01.02): Sender 모듈 개발 완료    
